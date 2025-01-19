@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Alura Studies
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto desenvolvido no curso da Alura, utilizando React Js e TypeScript.
+
+Você pode encontrar um vídeo demonstrativo no meu [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7261533861543636992/)
 
 ## Available Scripts
 
